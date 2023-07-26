@@ -42,18 +42,16 @@ Sunday                   62 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        11 mins             █████████████████████░░░░   82.35 % 
-Markdown                 2 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-xv6-labs-2020            11 mins             █████████████████████░░░░   82.35 % 
-Blogs_new                2 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -73,5 +71,5 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xkz0777/xkz0777/master/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2023 18:37:44 UTC
+ Last Updated on 26/07/2023 18:37:48 UTC
 <!--END_SECTION:waka-->
