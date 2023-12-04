@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-281%20hrs%2045%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
@@ -42,10 +42,10 @@ Sunday                   73 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      20 mins             █████████████████░░░░░░░░   67.40 % 
-JSON                     5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+C++                      20 mins             █████████████████░░░░░░░░   67.43 % 
+JSON                     5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
 Bash                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
@@ -77,5 +77,5 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xkz0777/xkz0777/master/assets/bar_graph.png)
 
 
- Last Updated on 03/12/2023 18:37:53 UTC
+ Last Updated on 04/12/2023 18:39:19 UTC
 <!--END_SECTION:waka-->
