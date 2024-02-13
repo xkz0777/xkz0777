@@ -6,7 +6,7 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xkz0777">
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-336%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-337%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -16,13 +16,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 0 secs              █████████████████████████   100.00 % 
+Other                    41 mins             ████████████████░░░░░░░░░   64.01 % 
+Bash                     16 mins             ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
+Python                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  1 hr 5 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+Mac                      1 hr 5 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -42,5 +45,5 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xkz0777/xkz0777/master/assets/bar_graph.png)
 
 
- Last Updated on 12/02/2024 18:37:32 UTC
+ Last Updated on 13/02/2024 18:38:36 UTC
 <!--END_SECTION:waka-->
