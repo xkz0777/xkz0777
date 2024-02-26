@@ -16,14 +16,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   38 mins             ███████████████████░░░░░░   77.16 % 
-Other                    11 mins             ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  49 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      49 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -43,5 +42,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xkz0777/xkz0777/master/assets/bar_graph.png)
 
 
- Last Updated on 25/02/2024 18:37:40 UTC
+ Last Updated on 26/02/2024 18:37:37 UTC
 <!--END_SECTION:waka-->
