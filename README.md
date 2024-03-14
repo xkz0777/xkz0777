@@ -6,9 +6,6 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xkz0777">
 
-![Code Time](http://img.shields.io/badge/Code%20Time-342%20hrs%2014%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-342%20hrs%2014%20mins-blue)
 
