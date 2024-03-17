@@ -7,7 +7,7 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xkz0777">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-342%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-342%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
@@ -17,14 +17,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     11 mins             █████████████████████████   99.15 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+JSON                     11 mins             █████████░░░░░░░░░░░░░░░░   35.55 % 
+PowerShell               8 mins              ███████░░░░░░░░░░░░░░░░░░   26.72 % 
+Other                    8 mins              ███████░░░░░░░░░░░░░░░░░░   26.23 % 
+SSH Config               3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.00 % 
+VS Code                  31 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      11 mins             █████████████████████████   100.00 % 
+Mac                      19 mins             ███████████████░░░░░░░░░░   61.78 % 
+Windows                  11 mins             ██████████░░░░░░░░░░░░░░░   38.22 % 
 ```
 
 **I Mostly Code in C++** 
@@ -44,5 +47,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xkz0777/xkz0777/master/assets/bar_graph.png)
 
 
- Last Updated on 16/03/2024 18:39:13 UTC
+ Last Updated on 17/03/2024 18:38:24 UTC
 <!--END_SECTION:waka-->
