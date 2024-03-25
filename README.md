@@ -9,7 +9,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-342%20hrs%2057%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -17,8 +17,8 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   10 mins             ████████████████████████░   94.90 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Python                   10 mins             ████████████████████████░   94.77 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
 
 🔥 Editors: 
 VS Code                  11 mins             █████████████████████████   100.00 % 
@@ -44,5 +44,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xkz0777/xkz0777/master/assets/bar_graph.png)
 
 
- Last Updated on 24/03/2024 18:38:03 UTC
+ Last Updated on 25/03/2024 18:37:40 UTC
 <!--END_SECTION:waka-->
