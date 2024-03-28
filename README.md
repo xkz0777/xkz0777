@@ -9,7 +9,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-342%20hrs%2057%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -43,5 +43,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xkz0777/xkz0777/master/assets/bar_graph.png)
 
 
- Last Updated on 27/03/2024 18:37:53 UTC
+ Last Updated on 28/03/2024 18:39:19 UTC
 <!--END_SECTION:waka-->
