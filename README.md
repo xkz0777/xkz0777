@@ -1,7 +1,7 @@
 # Hi there :wave:
 
-- This is xkz, an USTC undergraduate student.
-- I'm currently an intern of MSRA.
+- This is xkz, an incoming PhD student of USTC.
+- MSRA intern.
 - Personal blog: <https://xkz0777.github.io>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xkz0777">
