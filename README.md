@@ -1,7 +1,7 @@
 # Hi there :wave:
 
-- This is xkz, an incoming PhD student of USTC.
-- MSRA intern.
+- This is Kunzhao Xu, first year PhD student of USTC.
+- MSRA System Research Group intern.
 - Personal blog: <https://xkz0777.github.io>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xkz0777">
